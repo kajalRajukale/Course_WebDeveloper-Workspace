@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ID Selector</title>
+    <style>
+        #unique {
+            color: purple;
+        }
+    </style>
+</head>
+<body>
+    <p id="unique">This paragraph has a unique style.</p>
+    <p>This paragraph does not have the unique style.</p>
+
+    <xmp>
+        <head>
+            <title>Internal CSS</title>
+            <style>
+                #unique {}
+            </style>
+        </head>
+        <body>
+            <p id="unique">This paragraph has a unique style.</p>
+        </body>
+    </xmp>
+</body>
+</html>
