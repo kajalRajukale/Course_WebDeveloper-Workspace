@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 gh-set-url.sh
+=======
+git_remote_set-url
+node_modules
+**/__pycache__
+
+>>>>>>> 85f3d8e68c7dd18c4d7b272963c606981346a85e
