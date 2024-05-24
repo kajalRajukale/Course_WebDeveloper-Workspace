@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main_title_page{
+    background-color: #1abc9c;
+    padding: 80px;
+    width: 100%;
+    height: 397px;
+    text-align: center;
+    color: white;
+}
+.main_title_page h1{
+    font-size: 40px;
+}
